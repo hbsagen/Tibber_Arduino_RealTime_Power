@@ -14,4 +14,5 @@ On server or other 24/7 computer:
 
 In tibber.ino
 1. Make sure the unsigned int localPort = 52522; matches UDP_PORT from server.py
-2. Upload to Arduino
+2. Insert your SSID and PASSWORRD for your wifi network  
+3. Upload to Arduino
