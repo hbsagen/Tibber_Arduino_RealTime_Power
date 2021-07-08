@@ -6,7 +6,7 @@ Buildt with:
 - ESP8266
 - 4-Digit LED Display
 
-On server or other 24/7 computer:  
+Run on server or other 24/7 computer:
 1. Requires ‘Python GraphQL Client’ package: pip install python-graphql-client  
 2. Open server.py and change UDP_IP and UDP_PORT to the IP of your Arduino  
 3. Insert your Tibber "home ID" and "access token". You can get these at https://developer.tibber.com/  
